@@ -241,10 +241,10 @@ Este proyecto fue desarrollado como **trabajo final de análisis de datos** usan
 
 ## 📧 Contacto
 
-- **Autor:** Jose Gerardo Maquera
-- **Email:** josemaqueramar@gmail.com | jose.maquera@unmsm.edu.pe
+- **Autores:** Jose Maquera, Sol Tasayco, Valeri Zavala
+- **Email:** josemaqueramar@gmail.com
 - **Estudiante de:** Estadística, UNMSM (8vo ciclo)
-- **LinkedIn:** [Jose Maquera](https://linkedin.com/in/josemaqueramartinez/)
+- **LinkedIn:** [Jose Maquera](https://linkedin.com/in/josemaqueramartinez/) , [Sol Tasayco](https://www.linkedin.com/in/tasayco-robles-sol-rosario/) , [Valeri Zavala](https://www.linkedin.com/in/valeri-yajahira-m-zavala-ipanaque-1a54872a9/)
 - **GitHub:** [github.com/JoseMaqueraMartinez](https://github.com/JoseMaqueraMartinez/)
 
 ---
