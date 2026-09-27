@@ -43,8 +43,6 @@ Simulacro-San-Marcos/
 │
 ├── python/
 │   ├── scraping_simulacro.py          ← Script de extracción de datos (Playwright)
-│   ├── validacion_datos.py            ← Análisis y validación de datos
-│   └── requirements.txt               ← Dependencias Python
 │
 ├── powerbi/
 │   └── SimulacroUNMSM.pbix       ← Dashboard Power BI (3 páginas)
